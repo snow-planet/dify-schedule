@@ -21,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/leochen-g/dify-schedule/issues"
   },
-  # 更新 package.json 中的 Node.js 引擎限制
 "engines": {
   "node": ">=20.19.1"
 },
